@@ -7,4 +7,4 @@
 <!-- 
   Code here 
 -->
-![fractal](~/PIKUT0/fractal.png)
+![fractal](https://avatars.githubusercontent.com/u/91076943?v=4)

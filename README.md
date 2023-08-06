@@ -1,8 +1,9 @@
 # Welcome back Secret Agent!
 ### ☄️ About me ☄️ 
-##### I do what I like 💻
+I do what I like 💻
 Wanna buy new laptop
-[Little help](https://www.markdownguide.org/basic-syntax/ "hehe")
+
+###### [Little basics help](https://www.markdownguide.org/basic-syntax/ "hehe")
 
 <!-- TODO: Show pic: -->
 

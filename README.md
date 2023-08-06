@@ -7,4 +7,4 @@
 <!-- 
   Code here 
 -->
-![Tux, the Linux mascot](~/PIKUT0/fractal.png)
+![fractal](~/PIKUT0/fractal.png)

@@ -1,7 +1,8 @@
 # Welcome back Secret Agent!
 ### ☄️ About me ☄️ 
 I do what I like 💻
-Wanna buy new laptop
+
+Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
 [Little basics help](https://www.markdownguide.org/basic-syntax/)
 

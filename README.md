@@ -3,7 +3,7 @@
 I do what I like 💻
 Wanna buy new laptop
 
-###### [Little basics help](https://www.markdownguide.org/basic-syntax/ "hehe")
+[Little basics help](https://www.markdownguide.org/basic-syntax/)
 
 <!-- TODO: Show pic: -->
 

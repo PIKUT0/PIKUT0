@@ -1,10 +1,10 @@
 # Welcome to my pf :P
 
-[hehe](https://www.markdownguide.org/basic-syntax/ "hehe")
+[Little help](https://www.markdownguide.org/basic-syntax/ "hehe")
 
 <!-- TODO: Show pic: -->
 
 <!-- 
   Code here 
 -->
-![Tux, the Linux mascot](/assets/images/fractal.png)
+![Tux, the Linux mascot](~/PIKUT0/fractal.png)

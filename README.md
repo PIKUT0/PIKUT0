@@ -9,7 +9,9 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 - Shell 🕳️
 - Python 🐊
 - 1 n 0 🥇
-  
+   
 [![hamsterLove](https://i.pinimg.com/originals/a5/92/a9/a592a94c5e524242627c3feb9d0b67d2.gif)](https://github.com/PIKUT0 "Me right now")
+
+[![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
 
 [Little basics help](https://www.markdownguide.org/basic-syntax/)

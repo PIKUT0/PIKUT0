@@ -16,3 +16,6 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
 
 [Little basics help](https://www.markdownguide.org/basic-syntax/)
+
+[![HMM :3](https://komarev.com/ghpvc/?username=PIKUT0&style=for-the-badge&label=visitors+count&color=120e0e)](https://github.com/PIKUT0)
+

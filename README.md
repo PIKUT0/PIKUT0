@@ -8,7 +8,7 @@
 ---
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="50vw"/>
+  <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
 </div>
 
 ### ☄️ About me ☄️ 

@@ -1,14 +1,26 @@
-# Welcome back Secret Agent!
+---
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+Back+Secret+Agent!;Senior+Dev;Mecha+Robots;C+is+still+alive!&font=Fira+Code&center=true&width=440&height=45&color=7275b0&vCenter=true&pause=700&size=24" />
+</p>
+
+---
 ## ☄️ About me ☄️ 
 I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
 ## 😎 Now I'm learning some of this languages 😎 
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=C+C'++';Python;JavaScript;Shell&font=Fira+Code&center=true&width=440&height=45&color=7275b0&vCenter=true&pause=700&size=24" />
+</p>
+
 - C++ and C ⚙️ LOVE <3
-- Shell 🕳️ FOR LINUX
-- Python 🐊 FOR EXAMS ONLY
-- 1 n 0 🥇
+- Shell 🕳️ -------FOR LINUX
+- Python 🐊 ------FOR EXAMS ONLY
 - JavaScript &nbsp; 🛠️ !NOT ANYMORE!
    
 [![hamsterLove](https://i.pinimg.com/originals/a5/92/a9/a592a94c5e524242627c3feb9d0b67d2.gif)](https://github.com/PIKUT0 "Me right now")

@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/a5/92/a9/a592a94c5e524242627c3feb9d0b67d2.gif" width="100vw"/>
+  <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
   <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;Python;JavaScript;Shell&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
 </p>
 
-[![hamsterLove](https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif)](https://github.com/PIKUT0 "Me right now")
+[![hamsterLove](https://i.pinimg.com/originals/a5/92/a9/a592a94c5e524242627c3feb9d0b67d2.gif)](https://github.com/PIKUT0 "Me right now")
 
 [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
 

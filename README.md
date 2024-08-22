@@ -43,14 +43,14 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
   [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
   
-  [![HAMSTER TIME :P](https://github-readme-stats.vercel.app/api?username=PIKUT0&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/PIKUT0)
- <br>
-</div>
-
+  [![HAMSTER TIME :P](https://github-readme-stats.vercel.app/api?username=PIKUT0&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)](https://github.com/PIKUT0)
+<br>
 <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PIKUT0&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKUT0&layout=compact&theme=tokyonight&langs_count=9&hide_border=true"/></a>
 </p>
+</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Come%20Home%20Alpha&reversal=false&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=58&animation=twinkling&rotate=0&fontAlignY=52&section=header&descAlign=50&stroke=000000&strokeWidth=1"/>
 

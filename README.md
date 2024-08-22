@@ -8,6 +8,9 @@
 ---
 
 <div id="header" align="center">
+  <br>
+    😉 Check out my awesome YOUTUBE channel! &nbsp; [Here...](https://www.youtube.com/@Pikuto)
+  </br>
   <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
 </div>
 

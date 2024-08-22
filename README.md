@@ -34,7 +34,7 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 + SQL &nbsp; 👻
 + OpenGL &nbsp; 🕹️
 + Languages:
-+ <img src="https://readme-typing-svg.demolab.com/?lines=C+C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=false&pause=580&size=26"/>
++ <img src="https://readme-typing-svg.demolab.com/?lines=C+C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=false&width=200&height=40&color=fc49dc&vCenter=true&pause=580&size=26"/>
 
 </details>
 

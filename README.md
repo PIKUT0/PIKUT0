@@ -9,10 +9,9 @@
 
 <div align="center">
   <br>
-    😉 Check out my awesome YOUTUBE channel! &nbsp; [Here...](https://www.youtube.com/@Pikuto)
+    😉 Check out my awesome YOUTUBE channel! &nbsp;https://www.youtube.com/@Pikuto
   </br>
-</div>div>
-
+</div>
 
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>

@@ -26,10 +26,6 @@ I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
-</p>
-
 ## Tools 🌯
 <details>
   <summary><h4>Click on Me 😍</h4></summary>
@@ -39,9 +35,8 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 + Docker &nbsp; 🐬
 + SQL &nbsp; 👻
 + OpenGL &nbsp; 🕹️
-+ <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
-</p>
++ <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26"/>
++ [![OMG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust)](https://github.com/PIKUT0)
 
 </details>
 

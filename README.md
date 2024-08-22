@@ -13,12 +13,9 @@
    ## 😉 Check out my awesome YOUTUBE channel!
    
    Click 👉 https://www.youtube.com/@Pikuto 👈 Click
-   
-  </br>
-</div>
 
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
+   <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
+  </br>
 </div>
 
 ## ☄️ About me ☄️ 
@@ -35,8 +32,8 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 + Docker &nbsp; 🐬
 + SQL &nbsp; 👻
 + OpenGL &nbsp; 🕹️
++ Languages:
 + <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26"/>
-+ [![OMG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust)](https://github.com/PIKUT0)
 
 </details>
 

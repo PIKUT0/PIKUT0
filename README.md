@@ -14,7 +14,7 @@
    
    Click 👉 https://www.youtube.com/@Pikuto 👈 Click
 
-   [![Stop teasing me! Just click!!](https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif)](https://www.youtube.com/@Pikuto)
+   [![Stop teasing me! Just click!!](https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!")
   </br>
 </div>
 

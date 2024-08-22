@@ -26,30 +26,28 @@ I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
-### 😎📚 Now I'm learning some of this 📚😎 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C++;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
 </p>
 
-### Tools 🌯
+## Tools 🌯
 <details>
   <summary><h4>Click on Me 😍</h4></summary>
-
 + Linux &nbsp; 🐧 (I use ARCH btw)
 + VSCode &nbsp; 🆚
 + Neovim &nbsp; ✍️
 + Docker &nbsp; 🐬
 + SQL &nbsp; 👻
 + OpenGL &nbsp; 🕹️
++ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
+</p>
 
 </details>
 
 [Click on me if you're interested in finding some books](https://ebookfoundation.github.io/free-programming-books-search/) &nbsp; [Or me](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926)
 
-[![hamsterLove](https://i.pinimg.com/originals/a5/92/a9/a592a94c5e524242627c3feb9d0b67d2.gif)](https://github.com/PIKUT0 "Me right now")
-
-#### 🔎 Have a look at my stats 🔍
+## 🔎 Have a look at my stats 🔍
 <div align="center">
 <br>
 

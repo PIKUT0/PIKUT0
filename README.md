@@ -11,9 +11,7 @@
   
    ## 😉 Check out my awesome YOUTUBE channel!
    
-   Click 👉 https://www.youtube.com/@Pikuto 👈 Click
-
-   [![Stop teasing me! Just click!!](https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!")
+   Click 👉 [![Stop teasing me! Just click!!](https://github.com/user-attachments/assets/c783d321-ca45-4333-997e-ed9601b3693f)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!") &nbsp;👈 Click
   </br>
 </div>
 

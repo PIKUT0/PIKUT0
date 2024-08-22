@@ -48,8 +48,8 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 </div>
 
 <p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PIKUT0&theme=tokyonight"/></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKUT0&layout=compact&theme=tokyonight&langs_count=9"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PIKUT0&theme=tokyonight-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKUT0&layout=compact&theme=tokyonight&langs_count=9&hide_border=true"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Come%20Home%20Alpha&reversal=false&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=58&animation=twinkling&rotate=0&fontAlignY=52&section=header&descAlign=50&stroke=000000&strokeWidth=1"/>

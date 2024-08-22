@@ -29,7 +29,7 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 ### 😎📚 Now I'm learning some of this 📚😎 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;C++;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
 </p>
 
 ### Tools 🌯
@@ -59,6 +59,14 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
   
  <br>
 </div>
+
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PIKUT0&theme=tokyonight"/></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIKUT0&layout=compact&theme=tokyonight&langs_count=9"/></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Come%20Home%20Alpha&reversal=false&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=58&animation=twinkling&rotate=0&fontAlignY=52&section=header&descAlign=50&stroke=000000&strokeWidth=1"/>
+
 
 ##### Why not? 😇
 

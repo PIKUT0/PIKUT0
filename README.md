@@ -40,10 +40,10 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 ## 🔎 Have a look at my stats 🔍
 <div align="center">
 <br>
+
+  [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
   
   [![HAMSTER TIME :P](https://github-readme-stats.vercel.app/api?username=PIKUT0&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/PIKUT0)
-  
-  [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
  <br>
 </div>
 

@@ -11,16 +11,17 @@
   <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
 </div>
 
-### ☄️ About me ☄️ 
+## ☄️ About me ☄️ 
 I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
-### 😎 Now I'm learning some of this languages 😎 
+### 😎📚 Now I'm learning some of this 📚😎 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=C+🤗+❤️;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=true&width=400&height=45&color=fc49dc&vCenter=true&pause=580&size=26" />
 </p>
+
 ### Tools
 <details>
   <summary><h4>Click on Me 😍</h4></summary>
@@ -41,12 +42,11 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 <br>
 
   [![HAMSTER TIME :P](https://github-readme-stats.vercel.app/api?username=PIKUT0&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/PIKUT0)
-
+  
+  [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
+  
  <br>
 </div>
-
-[![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
-
 
 ##### Why not? 😇
 

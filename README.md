@@ -9,7 +9,11 @@
 
 <div align="center">
   <br>
-    😉 Check out my awesome YOUTUBE channel! &nbsp;https://www.youtube.com/@Pikuto
+  
+   ## 😉 Check out my awesome YOUTUBE channel!
+   
+   Click 👉 https://www.youtube.com/@Pikuto 👈 Click
+   
   </br>
 </div>
 

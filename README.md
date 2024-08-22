@@ -14,7 +14,7 @@
    
    Click 👉 https://www.youtube.com/@Pikuto 👈 Click
 
-   <img src="https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif" width="100vw"/>
+   [![Stop teasing me! Just click!!](https://media1.tenor.com/m/_h8btWwVYJsAAAAd/hamster-stroking-hamster.gif)](https://www.youtube.com/@Pikuto)
   </br>
 </div>
 
@@ -43,11 +43,9 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 ## 🔎 Have a look at my stats 🔍
 <div align="center">
 <br>
-
   [![HAMSTER TIME :P](https://github-readme-stats.vercel.app/api?username=PIKUT0&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/PIKUT0)
   
   [![Hmm :3](https://www.codewars.com/users/PIKUT0/badges/small)](https://www.codewars.com/users/PIKUT0 "Im on CW")
-  
  <br>
 </div>
 

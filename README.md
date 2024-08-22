@@ -11,7 +11,7 @@
   
    ## 😉 Check out my awesome YOUTUBE channel!
    
-   Click 👉 [![Stop teasing me! Just click!!](https://github.com/user-attachments/assets/c783d321-ca45-4333-997e-ed9601b3693f)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!") &nbsp;👈 Click
+   Click 👉 [![Stop teasing me! Just click!!](https://github.com/user-attachments/assets/bf6008c5-c774-4997-8673-0f552ca895a2)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!") &nbsp;👈 Click
   </br>
 </div>
 

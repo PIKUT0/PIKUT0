@@ -20,24 +20,36 @@ I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
-## Tools 🌯
-<details>
-  <summary><h4>Click on Me 😍</h4></summary>
-  
-+ Linux &nbsp; 🐧 (I use ARCH btw)
-+ VSCode &nbsp; 🆚
-+ Neovim &nbsp; ✍️
-+ Docker &nbsp; 🐬
-+ SQL &nbsp; 👻
-+ OpenGL &nbsp; 🕹️
-+ Languages:
-<img src="https://readme-typing-svg.demolab.com/?lines=C+C%2B%2B;Python;JavaScript;Shell;HTML+CSS;Rust&font=Fira+Code&center=false&width=200&height=40&color=fc49dc&vCenter=true&pause=20&size=26"/>
+## What I use 🌯
+<details> <summary><h4>Click 😍</h4></summary>
+  <details> <summary><h4>Languages:</h4></summary>
 
+  + C &nbsp; 😃
+  + C++ &nbsp; 📔
+  + Rust &nbsp; 🦀
+  + Shell &nbsp; 🕳️
+  + Python &nbsp; 🐍
+  + JavaScript &nbsp; 🥕
+  + HTML & CSS &nbsp; 🖼️
+  
+  </details>
+  <details> <summary><h4>Tools:</h4></summary>
+
+  + Linux &nbsp; 🐧 (I use ARCH btw)
+  + VSCode &nbsp; 🆚
+  + Neovim &nbsp; ✍️
+  + Docker &nbsp; 🐬
+  + SQL &nbsp; 👻
+  + OpenGL &nbsp; 🕹️
+
+  </details>
+
+> [Click on me if you're interested in finding some books](https://ebookfoundation.github.io/free-programming-books-search/) &nbsp; [Or me](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926)
+    
 </details>
 
-[Click on me if you're interested in finding some books](https://ebookfoundation.github.io/free-programming-books-search/) &nbsp; [Or me](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926)
-
 ## 🔎 Have a look at my stats 🔍
+<details> <summary><h4>Have a look 🔍</h4></summary>
 <div align="center">
 <br>
 
@@ -51,9 +63,9 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 </p>
 </div>
 
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Come%20Home%20Alpha&reversal=false&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=58&animation=twinkling&rotate=0&fontAlignY=52&section=header&descAlign=50&stroke=000000&strokeWidth=1"/>
-
 
 ##### Why not? 😇
 

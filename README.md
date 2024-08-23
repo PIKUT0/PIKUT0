@@ -1,12 +1,4 @@
----
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+Back+Secret+Agent!;Senior+Dev;Mecha+Robots;C+is+still+alive!&font=Fira+Code&center=true&width=480&height=40&color=fc49dc&vCenter=true&pause=680&size=30" />
-</p>
-</br>
-
----
+# Welcome, Secret Agent
 <div align="center">
   <br>
   

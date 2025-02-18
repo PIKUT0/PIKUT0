@@ -1,17 +1,9 @@
 # 🐬 Welcome 🐬
-<div align="center">
-  <br>
-  
-   ## 😉 Check out my awesome YOUTUBE channel!
-   
-   Click 👉 [![Stop teasing me! Just click!!](https://github.com/user-attachments/assets/bf6008c5-c774-4997-8673-0f552ca895a2)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!") &nbsp;👈 Click
-  </br>
-</div>
 
-## ☄️ About me ☄️ 
-I do what I like 💻
+I love things I do
+> Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
-Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
+<br>
 
 ## 🤗 &nbsp;I Know This!~ &nbsp; 
 > V.2.0
@@ -21,6 +13,15 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 | Python &nbsp; 🐍 | C &nbsp; 😇 | C++ &nbsp; ⚙️ | Rust &nbsp; 🦀 | Shell &nbsp; ☕ |
 | HTML &nbsp; 📔 | CSS &nbsp; 🖌️ | JavaScript &nbsp;🔧 | SQL &nbsp; 💻 | Arduino &nbsp; 🛹 |
 | Linux &nbsp; 🐧 | Docker &nbsp; 💤 | Neovim &nbsp; 👾 | RPi &nbsp; ❤️ | Robots &nbsp; 🤖 |
+
+<br>
+
+<div align="center">
+  <br>
+  
+   Click 👉 [![Stop teasing me! Just click!!](https://github.com/user-attachments/assets/bf6008c5-c774-4997-8673-0f552ca895a2)](https://www.youtube.com/@Pikuto "Stop teasing me! Just click!!") &nbsp;👈 Click
+  </br>
+</div>
 
 <br>
 

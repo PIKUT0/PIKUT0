@@ -1,4 +1,4 @@
-# Welcome, Secret Agent
+# 🐬 Welcome 🐬
 <div align="center">
   <br>
   
@@ -13,7 +13,19 @@ I do what I like 💻
 
 Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 
+## 🤗 &nbsp;I Know This!~ &nbsp; 
+> V.2.0
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| Python &nbsp; 🐍 | C &nbsp; 😇 | C++ &nbsp; ⚙️ | Rust &nbsp; 🦀 | Shell &nbsp; ☕ |
+| HTML &nbsp; 📔 | CSS &nbsp; 🖌️ | JavaScript &nbsp;🔧 | SQL &nbsp; 💻 | Arduino &nbsp; 🛹 |
+| Linux &nbsp; 🐧 | Docker &nbsp; 💤 | Neovim &nbsp; 👾 | RPi &nbsp; ❤️ | Robots &nbsp; 🤖 |
+
+<br>
+
 ## What I use 🌯
+  > V.1.0
 <details> <summary><h4>Click 😍</h4></summary>
   <details> <summary><h4>Languages:</h4></summary>
 
@@ -41,7 +53,7 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
     
 </details>
 
-## 🔎 Have a look at my stats 🔍
+## 🔎 My stats 🔍
 <details> <summary><h4>Have a look 🔍</h4></summary>
 <div align="center">
 <br>
@@ -57,8 +69,6 @@ Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
 </div>
 
 </details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Come%20Home%20Alpha&reversal=false&textBg=false&fontSize=50&fontColor=ffffff&fontAlign=58&animation=twinkling&rotate=0&fontAlignY=52&section=header&descAlign=50&stroke=000000&strokeWidth=1"/>
 
 ##### Why not? 😇
 

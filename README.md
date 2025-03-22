@@ -2,6 +2,8 @@
 
 I love things I do
 > Wanna buy new laptop, maybe Acer. So pls gimme some money. 💸
+> "Life is an integral where happiness is multiplied by time, and expenses and stress are the denominator. But the most important thing is not to forget that even if the integral is complex, it can always be simplified if you don’t complicate your life." 😊
+>“Life is an integral, where happiness is multiplied by time, and costs and nerves are the denominator. But the main thing is not to forget that even if the integral is complex, you can always simplify it, if you don’t complicate your life.”😊
 
 <br>
 
